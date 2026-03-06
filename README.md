@@ -48,7 +48,17 @@ cd latin-now
 
 ---
 
-### 2 — Create and Activate a Virtual Environment
+### 2 - Download assets resources
+
+Download the assets from the following URL:
+
+[https://drive.google.com/file/d/1iWNrl5g7oe2CODO5dkKZ2uS9JnHTRXLE/view?usp=sharing](https://drive.google.com/file/d/1iWNrl5g7oe2CODO5dkKZ2uS9JnHTRXLE/view?usp=sharing)
+
+And unzip into the project folder.
+
+---
+
+### 3 — Create and Activate a Virtual Environment
 
 It is highly recommended to use a virtual environment.
 
@@ -70,7 +80,7 @@ source venv/bin/activate
 
 ---
 
-### 3 — Install Dependencies
+### 4 — Install Dependencies
 
 > Linux users may need system audio libraries before installing PyAudio:
 
@@ -86,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-### 4 — Start the Backend Service (TTS)
+### 5 — Start the Backend Service (TTS)
 
 The application expects an OpenAI-compatible endpoint at:
 
