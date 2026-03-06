@@ -1,0 +1,5 @@
+numpy==2.3.5
+openai==2.21.0
+opencv-python==4.13.0.92
+PyAudio==0.2.14
+pygame==2.6.1

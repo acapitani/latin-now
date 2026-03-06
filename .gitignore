@@ -1,0 +1,30 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# assets
+assets/
+assets.zip
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env_venv/
+ENV/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Logs and Secrets
+*.log
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
