@@ -52,7 +52,7 @@ cd latin-now
 
 Download the assets from the following URL:
 
-[https://drive.google.com/file/d/1iWNrl5g7oe2CODO5dkKZ2uS9JnHTRXLE/view?usp=sharing](https://drive.google.com/file/d/1iWNrl5g7oe2CODO5dkKZ2uS9JnHTRXLE/view?usp=sharing)
+https://drive.google.com/file/d/1dT2WvqPO4wjOFlDtIwsBF6xDauMiZKoX/view?usp=sharing
 
 And unzip into the project folder.
 
